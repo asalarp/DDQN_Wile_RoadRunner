@@ -8,7 +8,7 @@ This repository is a running example of **Double Deep Q-Network(DDQN)** algorith
 |Cactus|-10|
 |Rock|-1|
 
-![alt text](.Demo.png)
+![alt text](https://github.com/asalarp/DQN_Wile_RoadRunner/blob/main/Demo.png)
 
 
 ## How to run 
