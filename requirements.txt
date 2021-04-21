@@ -1,0 +1,5 @@
+tensoflow-gpu==2.2.0
+numpy==1.18.1
+collections==1.0.3
+pillow==2.2.2
+tkinter==8.6
